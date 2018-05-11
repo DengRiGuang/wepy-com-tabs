@@ -30,7 +30,7 @@ npm install wepy-com-tabs --save
 ```
 
 
-## 属性值
+### 属性值
 属性 | 默认值 | 类型 | 必填 | 说明
 ---|---|---|---|---
 height | 35 | String | 否 | 高度px
