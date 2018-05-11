@@ -47,6 +47,12 @@ this.$invoke('tabs','init',[
     {title:'选项2'},
     {title:'选项3'}
 ]);
+
+methods = {
+    tabChange(index){
+        console.log(index);
+    }
+};
 ```
 
 ## 展示
