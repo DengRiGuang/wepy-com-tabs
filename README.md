@@ -4,9 +4,6 @@
 菜单栏组件、可滑动、下划线、css动画
 此组件依赖于[wepyjs](https://github.com/wepyjs/wepy)
 
-## 展示
-![image](https://github.com/weimingxuan/wepy-com-tabs/blob/master/example/demo.gif?raw=true)
-
 ## 使用
 
 ### 安装组件
@@ -51,3 +48,6 @@ this.$invoke('tabs','init',[
     {title:'选项3'}
 ]);
 ```
+
+## 展示
+![image](https://github.com/weimingxuan/wepy-com-tabs/blob/master/example/demo.gif?raw=true)
