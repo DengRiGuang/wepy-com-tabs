@@ -42,7 +42,7 @@ color | #888888 | String | 否 | 颜色
 
 ### 调用方法
 ```javascript
-this.$invoke('tab1','init',[
+this.$invoke('tabs','init',[
     {title:'选项1'},
     {title:'选项2'},
     {title:'选项3'}
