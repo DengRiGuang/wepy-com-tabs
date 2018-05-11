@@ -1,0 +1,26 @@
+{
+  "name": "wepy-com-tabs",
+  "version": "1.0.0",
+  "description": "微信小程序 wepyjs 第三方tabs组件",
+  "main": "tabs.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weimingxuan/wepy-com-tabs.git"
+  },
+  "keywords": [
+    "小程序",
+    "微信小程序",
+    "wepy",
+    "wepyjs",
+    "tabs"
+  ],
+  "author": "weimingxuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weimingxuan/wepy-com-tabs/issues"
+  },
+  "homepage": "https://github.com/weimingxuan/wepy-com-tabs#readme"
+}
