@@ -1,6 +1,6 @@
 {
   "name": "wepy-com-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微信小程序 wepyjs 第三方tabs组件",
   "main": "tabs.wpy",
   "scripts": {
