@@ -2,8 +2,10 @@
 
 ## 说明
 菜单栏组件、可滑动、下划线、css动画
+
 此组件依赖于[wepyjs](https://github.com/wepyjs/wepy)
 
+需要开启 Promise 支持
 ## 使用
 
 ### 安装组件
@@ -42,11 +44,7 @@ color | #888888 | String | 否 | 颜色
 
 ### 调用方法
 ```javascript
-this.$invoke('tabs','init',[
-    {title:'选项1'},
-    {title:'选项2'},
-    {title:'选项3'}
-]);
+this.$invoke('tabs','init',['选项1','选项2','选项3']);
 
 methods = {
     tabChange(index){
